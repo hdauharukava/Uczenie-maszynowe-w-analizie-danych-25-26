@@ -1,7 +1,7 @@
-# Analiza Danych w Machine Learning 2025Z
+# Uczenie Maszynowe w Analizie Danych 2025Z
 
 ## Opis Zajęć
-Celem przedmiotu "Analiza Danych w Machine Learning" jest wprowadzenie osób studenckich w podstawowe techniki analizy danych oraz ich zastosowanie w kontekście uczenia maszynowego. Osoby studenckie zdobędą wiedzę na temat przetwarzania danych, eksploracji danych, modelowania oraz oceny wyników.
+Celem przedmiotu "Uczenie Maszynowe w Analizie Danych" jest wprowadzenie osób studenckich w podstawowe techniki analizy danych oraz ich zastosowanie w kontekście uczenia maszynowego. Osoby studenckie zdobędą wiedzę na temat przetwarzania danych, eksploracji danych, modelowania oraz oceny wyników.
 
 ## Cele Zajęć
 - Zrozumienie podstawowych pojęć związanych z analizą danych.
@@ -43,4 +43,5 @@ Celem przedmiotu "Analiza Danych w Machine Learning" jest wprowadzenie osób stu
 
 ## Kontakt
 mgr inż. Adrian Albrecht <br>
+
 [aalbrecht@swps.edu.pl](mailto:aalbrecht@swps.edu.pl)
